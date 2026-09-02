@@ -1,8 +1,10 @@
-Juan Esteban Valencia Quintero CC: 1055753856
-
 # Matriz booleana eficiente 100000 x 100000
 
 Este proyecto genera una matriz booleana grande de forma eficiente, guardando cada valor como un bit para ahorrar espacio y evitar generar archivos gigantes en texto.
+
+## Autor
+
+Juan Esteban Valencia Quintero CC: 1055753856
 
 ## ¿Cómo funciona el código?
 

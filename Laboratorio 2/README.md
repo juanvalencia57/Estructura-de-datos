@@ -70,7 +70,7 @@ La prueba del punto 5 usa el indice_objetivo del punto 4:
 indice_objetivo = 2
 ```
 
-Por lo tanto la prueba de verificar con un dato incorrecto, es con el bloque objetivo `TX3: Carla envia 7 BTC a David`. El texto original de `TX3` produce `True`.
+La prueba de verificar con un dato incorrecto, es con el bloque objetivo `TX3: Carla envia 7 BTC a David`. El texto original de `TX3` produce `True`.
 
 En cambio, `TX3: Carla envia 7000 BTC a David` produce `False` porque fue alterado. `TX1: Ana envia 10 BTC a Beto` también produce `False` porque pertenece al índice `0`, no al índice `2`, es decir, que si se quiere hacer la prueba con otro bloque que no sea el que me pide el laboratorio, se tiene que cambiar el indice_objetivo del punto 4, lo que también cambiara el resultado de la prueba de inclusión y mi `merkle_tree_proof.png`.
 

@@ -17,6 +17,7 @@ Se uso IA generativa para modificar el código y que cumpla con lo siguiente:
     - Intentar verificar con un dato incorrecto → debe fallar.
 
 Se uso IA generativa en la siguiente parte del README:
+
     - Verificaciones (validas e invalidas) 
 
 ## Funcionamiento

@@ -39,7 +39,7 @@ La clase `Node` representa los nodos y calcula los hashes. `MerkleTree` construy
 
 ## Generación de árbol 
 
-El programa genera `merkle_tree.png` y `merkle_tree_proof.png` usando `matplotlib`. Si no se generan los graficos es porque no se tiene descargado `matplotlib`. Si quiere ver el grafico tendra que instalarlo usando el siguiente comando: 
+El programa genera `merkle_tree.png` y `merkle_tree_proof.png` usando `matplotlib`. Si no se generan los graficos es porque no se tiene descargado `matplotlib`. Si quiere ver el grafico tiene que instalarlo usando el siguiente comando: 
 
 ```python
 pip install matplotlib

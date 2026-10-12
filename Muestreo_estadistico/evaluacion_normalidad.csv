@@ -1,0 +1,547 @@
+prueba,input_order,indice,size_N,muestras,p_value,resultado
+build_and_lookup,shuffled,B+ tree,4800,25,1.16807e-07,not compatible
+build_and_lookup,shuffled,B+ tree,6000,25,8.64653e-06,not compatible
+build_and_lookup,shuffled,B+ tree,7200,25,0.00154321,not compatible
+build_and_lookup,shuffled,B+ tree,8400,25,4.92089e-09,not compatible
+build_and_lookup,shuffled,B+ tree,9600,25,1.21481e-09,not compatible
+build_and_lookup,shuffled,B+ tree,10800,25,3.97124e-09,not compatible
+build_and_lookup,shuffled,B+ tree,12000,25,1.4556e-09,not compatible
+build_and_lookup,shuffled,B+ tree,13200,25,3.37659e-09,not compatible
+build_and_lookup,shuffled,B+ tree,14400,25,1.0681e-09,not compatible
+build_and_lookup,shuffled,B+ tree,15600,25,1.21328e-09,not compatible
+build_and_lookup,shuffled,B+ tree,16800,25,3.18444e-09,not compatible
+build_and_lookup,shuffled,B+ tree,18000,25,6.31741e-10,not compatible
+build_and_lookup,shuffled,B+ tree,19200,25,7.02339e-10,not compatible
+build_and_lookup,shuffled,Binary search tree,4800,25,2.52589e-10,not compatible
+build_and_lookup,shuffled,Binary search tree,6000,25,3.54464e-09,not compatible
+build_and_lookup,shuffled,Binary search tree,7200,25,3.70694e-09,not compatible
+build_and_lookup,shuffled,Binary search tree,8400,25,2.03273e-08,not compatible
+build_and_lookup,shuffled,Binary search tree,9600,25,1.8123e-08,not compatible
+build_and_lookup,shuffled,Binary search tree,10800,25,6.02471e-09,not compatible
+build_and_lookup,shuffled,Binary search tree,12000,25,2.58458e-08,not compatible
+build_and_lookup,shuffled,Binary search tree,13200,25,2.43232e-08,not compatible
+build_and_lookup,shuffled,Binary search tree,14400,25,5.88015e-08,not compatible
+build_and_lookup,shuffled,Binary search tree,15600,25,7.67801e-08,not compatible
+build_and_lookup,shuffled,Binary search tree,16800,25,2.43999e-07,not compatible
+build_and_lookup,shuffled,Binary search tree,18000,25,7.1809e-07,not compatible
+build_and_lookup,shuffled,Binary search tree,19200,25,9.32614e-07,not compatible
+build_and_lookup,shuffled,Python sequence,4800,25,0.206145,compatible
+build_and_lookup,shuffled,Python sequence,6000,25,2.99036e-08,not compatible
+build_and_lookup,shuffled,Python sequence,7200,25,9.88366e-07,not compatible
+build_and_lookup,shuffled,Python sequence,8400,25,0.0412084,not compatible
+build_and_lookup,shuffled,Python sequence,9600,25,0.0264275,not compatible
+build_and_lookup,shuffled,Python sequence,10800,25,0.000200122,not compatible
+build_and_lookup,shuffled,Python sequence,12000,25,0.615106,compatible
+build_and_lookup,shuffled,Python sequence,13200,25,4.00271e-06,not compatible
+build_and_lookup,shuffled,Python sequence,14400,25,0.000316464,not compatible
+build_and_lookup,shuffled,Python sequence,15600,25,0.517505,compatible
+build_and_lookup,shuffled,Python sequence,16800,25,0.714818,compatible
+build_and_lookup,shuffled,Python sequence,18000,25,0.482864,compatible
+build_and_lookup,shuffled,Python sequence,19200,25,0.266925,compatible
+build_and_lookup,sorted,B+ tree,4800,25,1.11904e-09,not compatible
+build_and_lookup,sorted,B+ tree,6000,25,0.00012429,not compatible
+build_and_lookup,sorted,B+ tree,7200,25,5.91137e-09,not compatible
+build_and_lookup,sorted,B+ tree,8400,25,1.18447e-09,not compatible
+build_and_lookup,sorted,B+ tree,9600,25,1.02833e-09,not compatible
+build_and_lookup,sorted,B+ tree,10800,25,1.59043e-09,not compatible
+build_and_lookup,sorted,B+ tree,12000,25,2.21045e-09,not compatible
+build_and_lookup,sorted,B+ tree,13200,25,2.65921e-09,not compatible
+build_and_lookup,sorted,B+ tree,14400,25,2.38576e-09,not compatible
+build_and_lookup,sorted,B+ tree,15600,25,2.64847e-09,not compatible
+build_and_lookup,sorted,B+ tree,16800,25,3.46463e-09,not compatible
+build_and_lookup,sorted,B+ tree,18000,25,3.20098e-09,not compatible
+build_and_lookup,sorted,B+ tree,19200,25,1.54798e-09,not compatible
+build_and_lookup,sorted,Binary search tree,4800,25,0.110498,compatible
+build_and_lookup,sorted,Binary search tree,6000,25,0.381665,compatible
+build_and_lookup,sorted,Binary search tree,7200,25,0.139894,compatible
+build_and_lookup,sorted,Binary search tree,8400,25,0.478306,compatible
+build_and_lookup,sorted,Binary search tree,9600,25,0.0733524,compatible
+build_and_lookup,sorted,Binary search tree,10800,25,0.74178,compatible
+build_and_lookup,sorted,Binary search tree,12000,25,0.963115,compatible
+build_and_lookup,sorted,Binary search tree,13200,25,0.00536989,not compatible
+build_and_lookup,sorted,Binary search tree,14400,25,0.696597,compatible
+build_and_lookup,sorted,Binary search tree,15600,25,0.0118112,not compatible
+build_and_lookup,sorted,Binary search tree,16800,25,0.039118,not compatible
+build_and_lookup,sorted,Binary search tree,18000,25,0.000104903,not compatible
+build_and_lookup,sorted,Binary search tree,19200,25,0.260384,compatible
+build_and_lookup,sorted,Python sequence,4800,25,4.42562e-09,not compatible
+build_and_lookup,sorted,Python sequence,6000,25,1.27896e-05,not compatible
+build_and_lookup,sorted,Python sequence,7200,25,2.30928e-06,not compatible
+build_and_lookup,sorted,Python sequence,8400,25,1.02014e-08,not compatible
+build_and_lookup,sorted,Python sequence,9600,25,1.03416e-05,not compatible
+build_and_lookup,sorted,Python sequence,10800,25,0.0304299,not compatible
+build_and_lookup,sorted,Python sequence,12000,25,0.139773,compatible
+build_and_lookup,sorted,Python sequence,13200,25,8.19052e-07,not compatible
+build_and_lookup,sorted,Python sequence,14400,25,0.00241705,not compatible
+build_and_lookup,sorted,Python sequence,15600,25,0.468897,compatible
+build_and_lookup,sorted,Python sequence,16800,25,0.962664,compatible
+build_and_lookup,sorted,Python sequence,18000,25,0.575951,compatible
+build_and_lookup,sorted,Python sequence,19200,25,0.257231,compatible
+interval_15pct,shuffled,B+ tree,4800,25,0.000229813,not compatible
+interval_15pct,shuffled,B+ tree,6000,25,0.000148686,not compatible
+interval_15pct,shuffled,B+ tree,7200,25,1.20375e-06,not compatible
+interval_15pct,shuffled,B+ tree,8400,25,3.74286e-05,not compatible
+interval_15pct,shuffled,B+ tree,9600,25,0.00149916,not compatible
+interval_15pct,shuffled,B+ tree,10800,25,6.02033e-05,not compatible
+interval_15pct,shuffled,B+ tree,12000,25,5.66983e-05,not compatible
+interval_15pct,shuffled,B+ tree,13200,25,0.0138968,not compatible
+interval_15pct,shuffled,B+ tree,14400,25,0.0915617,compatible
+interval_15pct,shuffled,B+ tree,15600,25,7.77219e-09,not compatible
+interval_15pct,shuffled,B+ tree,16800,25,5.24188e-07,not compatible
+interval_15pct,shuffled,B+ tree,18000,25,0.00635086,not compatible
+interval_15pct,shuffled,B+ tree,19200,25,9.1022e-06,not compatible
+interval_15pct,shuffled,Binary search tree,4800,25,0.949001,compatible
+interval_15pct,shuffled,Binary search tree,6000,25,8.43371e-06,not compatible
+interval_15pct,shuffled,Binary search tree,7200,25,3.7175e-08,not compatible
+interval_15pct,shuffled,Binary search tree,8400,25,4.74967e-05,not compatible
+interval_15pct,shuffled,Binary search tree,9600,25,3.86309e-05,not compatible
+interval_15pct,shuffled,Binary search tree,10800,25,0.000111687,not compatible
+interval_15pct,shuffled,Binary search tree,12000,25,0.0674131,compatible
+interval_15pct,shuffled,Binary search tree,13200,25,0.00028813,not compatible
+interval_15pct,shuffled,Binary search tree,14400,25,2.34513e-05,not compatible
+interval_15pct,shuffled,Binary search tree,15600,25,0.000923887,not compatible
+interval_15pct,shuffled,Binary search tree,16800,25,0.00020121,not compatible
+interval_15pct,shuffled,Binary search tree,18000,25,0.00362901,not compatible
+interval_15pct,shuffled,Binary search tree,19200,25,0.00696349,not compatible
+interval_15pct,shuffled,Python sequence,4800,25,4.14929e-05,not compatible
+interval_15pct,shuffled,Python sequence,6000,25,0.0345133,not compatible
+interval_15pct,shuffled,Python sequence,7200,25,0.000155723,not compatible
+interval_15pct,shuffled,Python sequence,8400,25,2.47936e-06,not compatible
+interval_15pct,shuffled,Python sequence,9600,25,2.84433e-06,not compatible
+interval_15pct,shuffled,Python sequence,10800,25,0.000109903,not compatible
+interval_15pct,shuffled,Python sequence,12000,25,5.25154e-06,not compatible
+interval_15pct,shuffled,Python sequence,13200,25,6.42119e-06,not compatible
+interval_15pct,shuffled,Python sequence,14400,25,0.00257643,not compatible
+interval_15pct,shuffled,Python sequence,15600,25,9.1997e-06,not compatible
+interval_15pct,shuffled,Python sequence,16800,25,0.000110064,not compatible
+interval_15pct,shuffled,Python sequence,18000,25,0.000695411,not compatible
+interval_15pct,shuffled,Python sequence,19200,25,0.00804253,not compatible
+interval_15pct,sorted,B+ tree,4800,25,0.0071823,not compatible
+interval_15pct,sorted,B+ tree,6000,25,1.9377e-09,not compatible
+interval_15pct,sorted,B+ tree,7200,25,3.19585e-07,not compatible
+interval_15pct,sorted,B+ tree,8400,25,2.33625e-06,not compatible
+interval_15pct,sorted,B+ tree,9600,25,9.33374e-06,not compatible
+interval_15pct,sorted,B+ tree,10800,25,0.000102616,not compatible
+interval_15pct,sorted,B+ tree,12000,25,7.05919e-08,not compatible
+interval_15pct,sorted,B+ tree,13200,25,0.0547142,compatible
+interval_15pct,sorted,B+ tree,14400,25,1.48618e-06,not compatible
+interval_15pct,sorted,B+ tree,15600,25,2.51468e-09,not compatible
+interval_15pct,sorted,B+ tree,16800,25,7.92751e-06,not compatible
+interval_15pct,sorted,B+ tree,18000,25,0.00297144,not compatible
+interval_15pct,sorted,B+ tree,19200,25,4.45398e-07,not compatible
+interval_15pct,sorted,Binary search tree,4800,25,1.09947e-07,not compatible
+interval_15pct,sorted,Binary search tree,6000,25,3.51457e-10,not compatible
+interval_15pct,sorted,Binary search tree,7200,25,1.5904e-07,not compatible
+interval_15pct,sorted,Binary search tree,8400,25,0.000246243,not compatible
+interval_15pct,sorted,Binary search tree,9600,25,0.00214422,not compatible
+interval_15pct,sorted,Binary search tree,10800,25,0.0171045,not compatible
+interval_15pct,sorted,Binary search tree,12000,25,0.000170739,not compatible
+interval_15pct,sorted,Binary search tree,13200,25,0.000196539,not compatible
+interval_15pct,sorted,Binary search tree,14400,25,0.179991,compatible
+interval_15pct,sorted,Binary search tree,15600,25,2.76e-05,not compatible
+interval_15pct,sorted,Binary search tree,16800,25,4.42185e-05,not compatible
+interval_15pct,sorted,Binary search tree,18000,25,0.0252013,not compatible
+interval_15pct,sorted,Binary search tree,19200,25,0.000206764,not compatible
+interval_15pct,sorted,Python sequence,4800,25,0.771683,compatible
+interval_15pct,sorted,Python sequence,6000,25,0.00243882,not compatible
+interval_15pct,sorted,Python sequence,7200,25,5.40613e-09,not compatible
+interval_15pct,sorted,Python sequence,8400,25,1.41979e-06,not compatible
+interval_15pct,sorted,Python sequence,9600,25,4.78154e-09,not compatible
+interval_15pct,sorted,Python sequence,10800,25,0.00026167,not compatible
+interval_15pct,sorted,Python sequence,12000,25,1.7055e-06,not compatible
+interval_15pct,sorted,Python sequence,13200,25,1.94265e-08,not compatible
+interval_15pct,sorted,Python sequence,14400,25,3.14726e-06,not compatible
+interval_15pct,sorted,Python sequence,15600,25,3.65297e-07,not compatible
+interval_15pct,sorted,Python sequence,16800,25,5.28682e-06,not compatible
+interval_15pct,sorted,Python sequence,18000,25,5.91295e-06,not compatible
+interval_15pct,sorted,Python sequence,19200,25,1.10019e-05,not compatible
+interval_2pct,shuffled,B+ tree,4800,25,2.37536e-07,not compatible
+interval_2pct,shuffled,B+ tree,6000,25,0.00112436,not compatible
+interval_2pct,shuffled,B+ tree,7200,25,1.09581e-07,not compatible
+interval_2pct,shuffled,B+ tree,8400,25,9.93323e-09,not compatible
+interval_2pct,shuffled,B+ tree,9600,25,5.5033e-08,not compatible
+interval_2pct,shuffled,B+ tree,10800,25,5.27409e-06,not compatible
+interval_2pct,shuffled,B+ tree,12000,25,1.20419e-07,not compatible
+interval_2pct,shuffled,B+ tree,13200,25,4.7444e-07,not compatible
+interval_2pct,shuffled,B+ tree,14400,25,6.93613e-09,not compatible
+interval_2pct,shuffled,B+ tree,15600,25,1.34909e-07,not compatible
+interval_2pct,shuffled,B+ tree,16800,25,2.16707e-08,not compatible
+interval_2pct,shuffled,B+ tree,18000,25,0.00113553,not compatible
+interval_2pct,shuffled,B+ tree,19200,25,5.14675e-08,not compatible
+interval_2pct,shuffled,Binary search tree,4800,25,0.179161,compatible
+interval_2pct,shuffled,Binary search tree,6000,25,0.000844983,not compatible
+interval_2pct,shuffled,Binary search tree,7200,25,3.95234e-06,not compatible
+interval_2pct,shuffled,Binary search tree,8400,25,0.000983483,not compatible
+interval_2pct,shuffled,Binary search tree,9600,25,1.86709e-05,not compatible
+interval_2pct,shuffled,Binary search tree,10800,25,3.82122e-06,not compatible
+interval_2pct,shuffled,Binary search tree,12000,25,3.47276e-05,not compatible
+interval_2pct,shuffled,Binary search tree,13200,25,2.95159e-05,not compatible
+interval_2pct,shuffled,Binary search tree,14400,25,3.99948e-05,not compatible
+interval_2pct,shuffled,Binary search tree,15600,25,0.00144308,not compatible
+interval_2pct,shuffled,Binary search tree,16800,25,0.000173607,not compatible
+interval_2pct,shuffled,Binary search tree,18000,25,0.000211567,not compatible
+interval_2pct,shuffled,Binary search tree,19200,25,0.00243735,not compatible
+interval_2pct,shuffled,Python sequence,4800,25,0.293135,compatible
+interval_2pct,shuffled,Python sequence,6000,25,0.000615747,not compatible
+interval_2pct,shuffled,Python sequence,7200,25,0.000480896,not compatible
+interval_2pct,shuffled,Python sequence,8400,25,0.00207987,not compatible
+interval_2pct,shuffled,Python sequence,9600,25,3.41838e-07,not compatible
+interval_2pct,shuffled,Python sequence,10800,25,2.1528e-08,not compatible
+interval_2pct,shuffled,Python sequence,12000,25,9.03901e-07,not compatible
+interval_2pct,shuffled,Python sequence,13200,25,5.78266e-06,not compatible
+interval_2pct,shuffled,Python sequence,14400,25,1.50651e-05,not compatible
+interval_2pct,shuffled,Python sequence,15600,25,1.40893e-06,not compatible
+interval_2pct,shuffled,Python sequence,16800,25,0.00019962,not compatible
+interval_2pct,shuffled,Python sequence,18000,25,6.35115e-05,not compatible
+interval_2pct,shuffled,Python sequence,19200,25,0.00132696,not compatible
+interval_2pct,sorted,B+ tree,4800,25,4.95168e-07,not compatible
+interval_2pct,sorted,B+ tree,6000,25,3.83713e-10,not compatible
+interval_2pct,sorted,B+ tree,7200,25,1.08174e-07,not compatible
+interval_2pct,sorted,B+ tree,8400,25,3.72567e-10,not compatible
+interval_2pct,sorted,B+ tree,9600,25,6.77236e-07,not compatible
+interval_2pct,sorted,B+ tree,10800,25,2.46358e-07,not compatible
+interval_2pct,sorted,B+ tree,12000,25,1.33453e-07,not compatible
+interval_2pct,sorted,B+ tree,13200,25,4.14345e-07,not compatible
+interval_2pct,sorted,B+ tree,14400,25,7.73033e-08,not compatible
+interval_2pct,sorted,B+ tree,15600,25,2.66543e-07,not compatible
+interval_2pct,sorted,B+ tree,16800,25,8.88218e-07,not compatible
+interval_2pct,sorted,B+ tree,18000,25,1.76447e-07,not compatible
+interval_2pct,sorted,B+ tree,19200,25,0.00501262,not compatible
+interval_2pct,sorted,Binary search tree,4800,25,6.27018e-10,not compatible
+interval_2pct,sorted,Binary search tree,6000,25,4.6122e-06,not compatible
+interval_2pct,sorted,Binary search tree,7200,25,0.000354979,not compatible
+interval_2pct,sorted,Binary search tree,8400,25,1.29893e-06,not compatible
+interval_2pct,sorted,Binary search tree,9600,25,0.0193007,not compatible
+interval_2pct,sorted,Binary search tree,10800,25,0.0109365,not compatible
+interval_2pct,sorted,Binary search tree,12000,25,4.07273e-06,not compatible
+interval_2pct,sorted,Binary search tree,13200,25,0.00141081,not compatible
+interval_2pct,sorted,Binary search tree,14400,25,1.23312e-09,not compatible
+interval_2pct,sorted,Binary search tree,15600,25,0.0263934,not compatible
+interval_2pct,sorted,Binary search tree,16800,25,0.000386691,not compatible
+interval_2pct,sorted,Binary search tree,18000,25,4.80234e-05,not compatible
+interval_2pct,sorted,Binary search tree,19200,25,0.017074,not compatible
+interval_2pct,sorted,Python sequence,4800,25,8.5756e-09,not compatible
+interval_2pct,sorted,Python sequence,6000,25,4.15065e-06,not compatible
+interval_2pct,sorted,Python sequence,7200,25,1.81683e-06,not compatible
+interval_2pct,sorted,Python sequence,8400,25,7.2627e-07,not compatible
+interval_2pct,sorted,Python sequence,9600,25,1.49369e-08,not compatible
+interval_2pct,sorted,Python sequence,10800,25,0.00391395,not compatible
+interval_2pct,sorted,Python sequence,12000,25,8.84647e-06,not compatible
+interval_2pct,sorted,Python sequence,13200,25,1.57033e-05,not compatible
+interval_2pct,sorted,Python sequence,14400,25,1.40386e-05,not compatible
+interval_2pct,sorted,Python sequence,15600,25,0.000209002,not compatible
+interval_2pct,sorted,Python sequence,16800,25,2.41593e-06,not compatible
+interval_2pct,sorted,Python sequence,18000,25,2.30272e-05,not compatible
+interval_2pct,sorted,Python sequence,19200,25,1.944e-05,not compatible
+interval_30pct,shuffled,B+ tree,4800,25,0.000534364,not compatible
+interval_30pct,shuffled,B+ tree,6000,25,7.10277e-06,not compatible
+interval_30pct,shuffled,B+ tree,7200,25,0.000321007,not compatible
+interval_30pct,shuffled,B+ tree,8400,25,3.47424e-06,not compatible
+interval_30pct,shuffled,B+ tree,9600,25,6.97592e-07,not compatible
+interval_30pct,shuffled,B+ tree,10800,25,3.09439e-05,not compatible
+interval_30pct,shuffled,B+ tree,12000,25,0.000487313,not compatible
+interval_30pct,shuffled,B+ tree,13200,25,0.000933147,not compatible
+interval_30pct,shuffled,B+ tree,14400,25,8.46295e-07,not compatible
+interval_30pct,shuffled,B+ tree,15600,25,6.29167e-07,not compatible
+interval_30pct,shuffled,B+ tree,16800,25,0.000550825,not compatible
+interval_30pct,shuffled,B+ tree,18000,25,9.65096e-05,not compatible
+interval_30pct,shuffled,B+ tree,19200,25,0.000330498,not compatible
+interval_30pct,shuffled,Binary search tree,4800,25,0.00076164,not compatible
+interval_30pct,shuffled,Binary search tree,6000,25,0.000312834,not compatible
+interval_30pct,shuffled,Binary search tree,7200,25,1.47735e-05,not compatible
+interval_30pct,shuffled,Binary search tree,8400,25,0.000829752,not compatible
+interval_30pct,shuffled,Binary search tree,9600,25,1.47824e-08,not compatible
+interval_30pct,shuffled,Binary search tree,10800,25,0.00344461,not compatible
+interval_30pct,shuffled,Binary search tree,12000,25,0.00553434,not compatible
+interval_30pct,shuffled,Binary search tree,13200,25,1.17442e-05,not compatible
+interval_30pct,shuffled,Binary search tree,14400,25,0.000190681,not compatible
+interval_30pct,shuffled,Binary search tree,15600,25,0.000617963,not compatible
+interval_30pct,shuffled,Binary search tree,16800,25,0.00100306,not compatible
+interval_30pct,shuffled,Binary search tree,18000,25,4.01134e-07,not compatible
+interval_30pct,shuffled,Binary search tree,19200,25,0.0128442,not compatible
+interval_30pct,shuffled,Python sequence,4800,25,0.00174596,not compatible
+interval_30pct,shuffled,Python sequence,6000,25,0.000912474,not compatible
+interval_30pct,shuffled,Python sequence,7200,25,0.00724948,not compatible
+interval_30pct,shuffled,Python sequence,8400,25,1.22901e-05,not compatible
+interval_30pct,shuffled,Python sequence,9600,25,7.78734e-08,not compatible
+interval_30pct,shuffled,Python sequence,10800,25,3.27438e-10,not compatible
+interval_30pct,shuffled,Python sequence,12000,25,2.29815e-05,not compatible
+interval_30pct,shuffled,Python sequence,13200,25,4.94317e-05,not compatible
+interval_30pct,shuffled,Python sequence,14400,25,3.43892e-05,not compatible
+interval_30pct,shuffled,Python sequence,15600,25,3.85114e-06,not compatible
+interval_30pct,shuffled,Python sequence,16800,25,3.58553e-05,not compatible
+interval_30pct,shuffled,Python sequence,18000,25,0.000175136,not compatible
+interval_30pct,shuffled,Python sequence,19200,25,9.70209e-05,not compatible
+interval_30pct,sorted,B+ tree,4800,25,1.03726e-07,not compatible
+interval_30pct,sorted,B+ tree,6000,25,3.25174e-06,not compatible
+interval_30pct,sorted,B+ tree,7200,25,1.15501e-07,not compatible
+interval_30pct,sorted,B+ tree,8400,25,3.1752e-05,not compatible
+interval_30pct,sorted,B+ tree,9600,25,0.0145639,not compatible
+interval_30pct,sorted,B+ tree,10800,25,0.00154934,not compatible
+interval_30pct,sorted,B+ tree,12000,25,0.0015735,not compatible
+interval_30pct,sorted,B+ tree,13200,25,5.06322e-07,not compatible
+interval_30pct,sorted,B+ tree,14400,25,0.00134216,not compatible
+interval_30pct,sorted,B+ tree,15600,25,0.00054437,not compatible
+interval_30pct,sorted,B+ tree,16800,25,0.000288773,not compatible
+interval_30pct,sorted,B+ tree,18000,25,0.0062617,not compatible
+interval_30pct,sorted,B+ tree,19200,25,0.000924685,not compatible
+interval_30pct,sorted,Binary search tree,4800,25,0.0106533,not compatible
+interval_30pct,sorted,Binary search tree,6000,25,0.000533235,not compatible
+interval_30pct,sorted,Binary search tree,7200,25,3.56962e-05,not compatible
+interval_30pct,sorted,Binary search tree,8400,25,0.00221385,not compatible
+interval_30pct,sorted,Binary search tree,9600,25,0.00765685,not compatible
+interval_30pct,sorted,Binary search tree,10800,25,0.000808794,not compatible
+interval_30pct,sorted,Binary search tree,12000,25,9.84528e-06,not compatible
+interval_30pct,sorted,Binary search tree,13200,25,2.60634e-06,not compatible
+interval_30pct,sorted,Binary search tree,14400,25,1.95105e-06,not compatible
+interval_30pct,sorted,Binary search tree,15600,25,0.0162108,not compatible
+interval_30pct,sorted,Binary search tree,16800,25,0.0540948,compatible
+interval_30pct,sorted,Binary search tree,18000,25,0.076582,compatible
+interval_30pct,sorted,Binary search tree,19200,25,0.0273277,not compatible
+interval_30pct,sorted,Python sequence,4800,25,0.00989675,not compatible
+interval_30pct,sorted,Python sequence,6000,25,0.00224456,not compatible
+interval_30pct,sorted,Python sequence,7200,25,0.00237446,not compatible
+interval_30pct,sorted,Python sequence,8400,25,6.00915e-07,not compatible
+interval_30pct,sorted,Python sequence,9600,25,0.000103459,not compatible
+interval_30pct,sorted,Python sequence,10800,25,6.73597e-06,not compatible
+interval_30pct,sorted,Python sequence,12000,25,0.00136407,not compatible
+interval_30pct,sorted,Python sequence,13200,25,8.36939e-05,not compatible
+interval_30pct,sorted,Python sequence,14400,25,3.6783e-06,not compatible
+interval_30pct,sorted,Python sequence,15600,25,4.46102e-05,not compatible
+interval_30pct,sorted,Python sequence,16800,25,0.000169382,not compatible
+interval_30pct,sorted,Python sequence,18000,25,7.28964e-05,not compatible
+interval_30pct,sorted,Python sequence,19200,25,0.000450117,not compatible
+interval_8pct,shuffled,B+ tree,4800,25,8.78913e-07,not compatible
+interval_8pct,shuffled,B+ tree,6000,25,2.3631e-06,not compatible
+interval_8pct,shuffled,B+ tree,7200,25,7.88475e-08,not compatible
+interval_8pct,shuffled,B+ tree,8400,25,4.22677e-08,not compatible
+interval_8pct,shuffled,B+ tree,9600,25,4.40504e-06,not compatible
+interval_8pct,shuffled,B+ tree,10800,25,9.66243e-07,not compatible
+interval_8pct,shuffled,B+ tree,12000,25,7.03082e-07,not compatible
+interval_8pct,shuffled,B+ tree,13200,25,0.000917865,not compatible
+interval_8pct,shuffled,B+ tree,14400,25,1.1559e-07,not compatible
+interval_8pct,shuffled,B+ tree,15600,25,0.000388744,not compatible
+interval_8pct,shuffled,B+ tree,16800,25,7.75558e-07,not compatible
+interval_8pct,shuffled,B+ tree,18000,25,1.209e-06,not compatible
+interval_8pct,shuffled,B+ tree,19200,25,2.61334e-08,not compatible
+interval_8pct,shuffled,Binary search tree,4800,25,0.530838,compatible
+interval_8pct,shuffled,Binary search tree,6000,25,0.000320545,not compatible
+interval_8pct,shuffled,Binary search tree,7200,25,2.58683e-06,not compatible
+interval_8pct,shuffled,Binary search tree,8400,25,0.0022661,not compatible
+interval_8pct,shuffled,Binary search tree,9600,25,0.000198173,not compatible
+interval_8pct,shuffled,Binary search tree,10800,25,0.000911829,not compatible
+interval_8pct,shuffled,Binary search tree,12000,25,0.000954073,not compatible
+interval_8pct,shuffled,Binary search tree,13200,25,0.000116139,not compatible
+interval_8pct,shuffled,Binary search tree,14400,25,6.22956e-05,not compatible
+interval_8pct,shuffled,Binary search tree,15600,25,0.0155311,not compatible
+interval_8pct,shuffled,Binary search tree,16800,25,0.000304518,not compatible
+interval_8pct,shuffled,Binary search tree,18000,25,8.08283e-06,not compatible
+interval_8pct,shuffled,Binary search tree,19200,25,0.00221443,not compatible
+interval_8pct,shuffled,Python sequence,4800,25,0.587499,compatible
+interval_8pct,shuffled,Python sequence,6000,25,1.99112e-05,not compatible
+interval_8pct,shuffled,Python sequence,7200,25,4.01918e-08,not compatible
+interval_8pct,shuffled,Python sequence,8400,25,2.16788e-07,not compatible
+interval_8pct,shuffled,Python sequence,9600,25,7.76479e-09,not compatible
+interval_8pct,shuffled,Python sequence,10800,25,3.81899e-05,not compatible
+interval_8pct,shuffled,Python sequence,12000,25,0.0111152,not compatible
+interval_8pct,shuffled,Python sequence,13200,25,0.000194817,not compatible
+interval_8pct,shuffled,Python sequence,14400,25,1.07324e-05,not compatible
+interval_8pct,shuffled,Python sequence,15600,25,3.19032e-06,not compatible
+interval_8pct,shuffled,Python sequence,16800,25,2.94756e-05,not compatible
+interval_8pct,shuffled,Python sequence,18000,25,0.00021077,not compatible
+interval_8pct,shuffled,Python sequence,19200,25,0.000700555,not compatible
+interval_8pct,sorted,B+ tree,4800,25,7.03969e-07,not compatible
+interval_8pct,sorted,B+ tree,6000,25,1.30617e-07,not compatible
+interval_8pct,sorted,B+ tree,7200,25,8.28658e-08,not compatible
+interval_8pct,sorted,B+ tree,8400,25,1.34266e-05,not compatible
+interval_8pct,sorted,B+ tree,9600,25,0.000342127,not compatible
+interval_8pct,sorted,B+ tree,10800,25,1.1158e-07,not compatible
+interval_8pct,sorted,B+ tree,12000,25,0.000379366,not compatible
+interval_8pct,sorted,B+ tree,13200,25,1.31196e-07,not compatible
+interval_8pct,sorted,B+ tree,14400,25,0.0659062,compatible
+interval_8pct,sorted,B+ tree,15600,25,0.000604972,not compatible
+interval_8pct,sorted,B+ tree,16800,25,0.000247148,not compatible
+interval_8pct,sorted,B+ tree,18000,25,0.00581648,not compatible
+interval_8pct,sorted,B+ tree,19200,25,6.90167e-05,not compatible
+interval_8pct,sorted,Binary search tree,4800,25,0.0467413,not compatible
+interval_8pct,sorted,Binary search tree,6000,25,0.00224286,not compatible
+interval_8pct,sorted,Binary search tree,7200,25,8.61677e-05,not compatible
+interval_8pct,sorted,Binary search tree,8400,25,1.74297e-09,not compatible
+interval_8pct,sorted,Binary search tree,9600,25,4.4278e-10,not compatible
+interval_8pct,sorted,Binary search tree,10800,25,0.0624628,compatible
+interval_8pct,sorted,Binary search tree,12000,25,3.48393e-05,not compatible
+interval_8pct,sorted,Binary search tree,13200,25,0.00101088,not compatible
+interval_8pct,sorted,Binary search tree,14400,25,0.412992,compatible
+interval_8pct,sorted,Binary search tree,15600,25,1.61229e-06,not compatible
+interval_8pct,sorted,Binary search tree,16800,25,0.0102207,not compatible
+interval_8pct,sorted,Binary search tree,18000,25,0.00444026,not compatible
+interval_8pct,sorted,Binary search tree,19200,25,0.00109873,not compatible
+interval_8pct,sorted,Python sequence,4800,25,6.36363e-06,not compatible
+interval_8pct,sorted,Python sequence,6000,25,1.23185e-06,not compatible
+interval_8pct,sorted,Python sequence,7200,25,3.82613e-06,not compatible
+interval_8pct,sorted,Python sequence,8400,25,0.000371081,not compatible
+interval_8pct,sorted,Python sequence,9600,25,3.18994e-08,not compatible
+interval_8pct,sorted,Python sequence,10800,25,0.000118783,not compatible
+interval_8pct,sorted,Python sequence,12000,25,7.00595e-06,not compatible
+interval_8pct,sorted,Python sequence,13200,25,2.96e-07,not compatible
+interval_8pct,sorted,Python sequence,14400,25,0.000154655,not compatible
+interval_8pct,sorted,Python sequence,15600,25,4.45205e-06,not compatible
+interval_8pct,sorted,Python sequence,16800,25,0.000105128,not compatible
+interval_8pct,sorted,Python sequence,18000,25,1.50483e-06,not compatible
+interval_8pct,sorted,Python sequence,19200,25,5.15804e-06,not compatible
+lookup_only,shuffled,B+ tree,4800,25,6.50128e-07,not compatible
+lookup_only,shuffled,B+ tree,6000,25,3.89113e-07,not compatible
+lookup_only,shuffled,B+ tree,7200,25,5.51646e-05,not compatible
+lookup_only,shuffled,B+ tree,8400,25,7.26967e-07,not compatible
+lookup_only,shuffled,B+ tree,9600,25,4.43815e-08,not compatible
+lookup_only,shuffled,B+ tree,10800,25,3.50084e-08,not compatible
+lookup_only,shuffled,B+ tree,12000,25,3.93558e-07,not compatible
+lookup_only,shuffled,B+ tree,13200,25,8.03905e-06,not compatible
+lookup_only,shuffled,B+ tree,14400,25,1.9094e-09,not compatible
+lookup_only,shuffled,B+ tree,15600,25,2.47958e-09,not compatible
+lookup_only,shuffled,B+ tree,16800,25,3.58297e-10,not compatible
+lookup_only,shuffled,B+ tree,18000,25,4.33408e-10,not compatible
+lookup_only,shuffled,B+ tree,19200,25,3.54646e-09,not compatible
+lookup_only,shuffled,Binary search tree,4800,25,1.27792e-06,not compatible
+lookup_only,shuffled,Binary search tree,6000,25,4.09966e-07,not compatible
+lookup_only,shuffled,Binary search tree,7200,25,5.27327e-08,not compatible
+lookup_only,shuffled,Binary search tree,8400,25,0.00039523,not compatible
+lookup_only,shuffled,Binary search tree,9600,25,1.6192e-07,not compatible
+lookup_only,shuffled,Binary search tree,10800,25,2.22892e-05,not compatible
+lookup_only,shuffled,Binary search tree,12000,25,1.56079e-09,not compatible
+lookup_only,shuffled,Binary search tree,13200,25,2.52268e-09,not compatible
+lookup_only,shuffled,Binary search tree,14400,25,9.52196e-10,not compatible
+lookup_only,shuffled,Binary search tree,15600,25,2.6101e-08,not compatible
+lookup_only,shuffled,Binary search tree,16800,25,4.27423e-07,not compatible
+lookup_only,shuffled,Binary search tree,18000,25,3.64751e-06,not compatible
+lookup_only,shuffled,Binary search tree,19200,25,7.77143e-09,not compatible
+lookup_only,shuffled,Python sequence,4800,25,0.0254778,not compatible
+lookup_only,shuffled,Python sequence,6000,25,2.99607e-06,not compatible
+lookup_only,shuffled,Python sequence,7200,25,0.101947,compatible
+lookup_only,shuffled,Python sequence,8400,25,0.000304373,not compatible
+lookup_only,shuffled,Python sequence,9600,25,2.77039e-07,not compatible
+lookup_only,shuffled,Python sequence,10800,25,0.00117435,not compatible
+lookup_only,shuffled,Python sequence,12000,25,5.9643e-08,not compatible
+lookup_only,shuffled,Python sequence,13200,25,7.48332e-07,not compatible
+lookup_only,shuffled,Python sequence,14400,25,1.57629e-07,not compatible
+lookup_only,shuffled,Python sequence,15600,25,1.08627e-07,not compatible
+lookup_only,shuffled,Python sequence,16800,25,1.63138e-06,not compatible
+lookup_only,shuffled,Python sequence,18000,25,1.07311e-07,not compatible
+lookup_only,shuffled,Python sequence,19200,25,8.05087e-08,not compatible
+lookup_only,sorted,B+ tree,4800,25,2.4904e-08,not compatible
+lookup_only,sorted,B+ tree,6000,25,1.01714e-07,not compatible
+lookup_only,sorted,B+ tree,7200,25,3.09401e-10,not compatible
+lookup_only,sorted,B+ tree,8400,25,8.50328e-08,not compatible
+lookup_only,sorted,B+ tree,9600,25,1.40438e-07,not compatible
+lookup_only,sorted,B+ tree,10800,25,3.52742e-09,not compatible
+lookup_only,sorted,B+ tree,12000,25,8.83913e-06,not compatible
+lookup_only,sorted,B+ tree,13200,25,6.4698e-09,not compatible
+lookup_only,sorted,B+ tree,14400,25,8.54955e-10,not compatible
+lookup_only,sorted,B+ tree,15600,25,4.09437e-08,not compatible
+lookup_only,sorted,B+ tree,16800,25,7.83462e-06,not compatible
+lookup_only,sorted,B+ tree,18000,25,2.83424e-09,not compatible
+lookup_only,sorted,B+ tree,19200,25,3.10288e-08,not compatible
+lookup_only,sorted,Binary search tree,4800,25,0.490777,compatible
+lookup_only,sorted,Binary search tree,6000,25,4.87112e-06,not compatible
+lookup_only,sorted,Binary search tree,7200,25,0.000906071,not compatible
+lookup_only,sorted,Binary search tree,8400,25,0.500241,compatible
+lookup_only,sorted,Binary search tree,9600,25,0.476638,compatible
+lookup_only,sorted,Binary search tree,10800,25,1.25463e-05,not compatible
+lookup_only,sorted,Binary search tree,12000,25,0.000827232,not compatible
+lookup_only,sorted,Binary search tree,13200,25,0.0517583,compatible
+lookup_only,sorted,Binary search tree,14400,25,5.32959e-07,not compatible
+lookup_only,sorted,Binary search tree,15600,25,1.99103e-06,not compatible
+lookup_only,sorted,Binary search tree,16800,25,8.50579e-05,not compatible
+lookup_only,sorted,Binary search tree,18000,25,0.00152399,not compatible
+lookup_only,sorted,Binary search tree,19200,25,0.00110408,not compatible
+lookup_only,sorted,Python sequence,4800,25,0.000295845,not compatible
+lookup_only,sorted,Python sequence,6000,25,5.07465e-07,not compatible
+lookup_only,sorted,Python sequence,7200,25,0.0281367,not compatible
+lookup_only,sorted,Python sequence,8400,25,0.00686047,not compatible
+lookup_only,sorted,Python sequence,9600,25,0.00254298,not compatible
+lookup_only,sorted,Python sequence,10800,25,9.00551e-07,not compatible
+lookup_only,sorted,Python sequence,12000,25,5.15889e-06,not compatible
+lookup_only,sorted,Python sequence,13200,25,2.9429e-07,not compatible
+lookup_only,sorted,Python sequence,14400,25,4.35647e-06,not compatible
+lookup_only,sorted,Python sequence,15600,25,1.7884e-07,not compatible
+lookup_only,sorted,Python sequence,16800,25,5.05336e-07,not compatible
+lookup_only,sorted,Python sequence,18000,25,8.83682e-08,not compatible
+lookup_only,sorted,Python sequence,19200,25,1.55465e-07,not compatible
+ordered_scan,shuffled,B+ tree,4800,25,1.5964e-05,not compatible
+ordered_scan,shuffled,B+ tree,6000,25,0.00056617,not compatible
+ordered_scan,shuffled,B+ tree,7200,25,0.00527325,not compatible
+ordered_scan,shuffled,B+ tree,8400,25,0.000209503,not compatible
+ordered_scan,shuffled,B+ tree,9600,25,0.000495609,not compatible
+ordered_scan,shuffled,B+ tree,10800,25,4.74049e-07,not compatible
+ordered_scan,shuffled,B+ tree,12000,25,0.00826952,not compatible
+ordered_scan,shuffled,B+ tree,13200,25,2.94592e-05,not compatible
+ordered_scan,shuffled,B+ tree,14400,25,0.0113133,not compatible
+ordered_scan,shuffled,B+ tree,15600,25,0.000597146,not compatible
+ordered_scan,shuffled,B+ tree,16800,25,2.251e-07,not compatible
+ordered_scan,shuffled,B+ tree,18000,25,0.00220707,not compatible
+ordered_scan,shuffled,B+ tree,19200,25,6.26701e-07,not compatible
+ordered_scan,shuffled,Binary search tree,4800,25,0.253392,compatible
+ordered_scan,shuffled,Binary search tree,6000,25,8.962e-06,not compatible
+ordered_scan,shuffled,Binary search tree,7200,25,0.000472387,not compatible
+ordered_scan,shuffled,Binary search tree,8400,25,0.0476885,not compatible
+ordered_scan,shuffled,Binary search tree,9600,25,3.2803e-05,not compatible
+ordered_scan,shuffled,Binary search tree,10800,25,5.66801e-06,not compatible
+ordered_scan,shuffled,Binary search tree,12000,25,0.00585671,not compatible
+ordered_scan,shuffled,Binary search tree,13200,25,0.0019509,not compatible
+ordered_scan,shuffled,Binary search tree,14400,25,0.925038,compatible
+ordered_scan,shuffled,Binary search tree,15600,25,0.0163434,not compatible
+ordered_scan,shuffled,Binary search tree,16800,25,0.000452376,not compatible
+ordered_scan,shuffled,Binary search tree,18000,25,0.00844722,not compatible
+ordered_scan,shuffled,Binary search tree,19200,25,0.240807,compatible
+ordered_scan,shuffled,Python sequence,4800,25,6.6882e-06,not compatible
+ordered_scan,shuffled,Python sequence,6000,25,6.56778e-05,not compatible
+ordered_scan,shuffled,Python sequence,7200,25,0.0644222,compatible
+ordered_scan,shuffled,Python sequence,8400,25,7.85977e-08,not compatible
+ordered_scan,shuffled,Python sequence,9600,25,1.1793e-07,not compatible
+ordered_scan,shuffled,Python sequence,10800,25,0.000132954,not compatible
+ordered_scan,shuffled,Python sequence,12000,25,0.079496,compatible
+ordered_scan,shuffled,Python sequence,13200,25,0.288181,compatible
+ordered_scan,shuffled,Python sequence,14400,25,0.834909,compatible
+ordered_scan,shuffled,Python sequence,15600,25,0.196275,compatible
+ordered_scan,shuffled,Python sequence,16800,25,0.236553,compatible
+ordered_scan,shuffled,Python sequence,18000,25,0.09585,compatible
+ordered_scan,shuffled,Python sequence,19200,25,0.0634043,compatible
+ordered_scan,sorted,B+ tree,4800,25,7.16428e-10,not compatible
+ordered_scan,sorted,B+ tree,6000,25,3.76505e-05,not compatible
+ordered_scan,sorted,B+ tree,7200,25,3.70606e-06,not compatible
+ordered_scan,sorted,B+ tree,8400,25,3.38838e-05,not compatible
+ordered_scan,sorted,B+ tree,9600,25,1.70822e-06,not compatible
+ordered_scan,sorted,B+ tree,10800,25,4.66665e-06,not compatible
+ordered_scan,sorted,B+ tree,12000,25,2.48155e-05,not compatible
+ordered_scan,sorted,B+ tree,13200,25,6.40851e-06,not compatible
+ordered_scan,sorted,B+ tree,14400,25,6.49379e-07,not compatible
+ordered_scan,sorted,B+ tree,15600,25,0.00038574,not compatible
+ordered_scan,sorted,B+ tree,16800,25,1.14991e-06,not compatible
+ordered_scan,sorted,B+ tree,18000,25,1.66918e-05,not compatible
+ordered_scan,sorted,B+ tree,19200,25,6.93991e-08,not compatible
+ordered_scan,sorted,Binary search tree,4800,25,7.35532e-08,not compatible
+ordered_scan,sorted,Binary search tree,6000,25,9.05564e-09,not compatible
+ordered_scan,sorted,Binary search tree,7200,25,5.57187e-06,not compatible
+ordered_scan,sorted,Binary search tree,8400,25,2.19789e-07,not compatible
+ordered_scan,sorted,Binary search tree,9600,25,0.00697687,not compatible
+ordered_scan,sorted,Binary search tree,10800,25,0.00208851,not compatible
+ordered_scan,sorted,Binary search tree,12000,25,2.54384e-05,not compatible
+ordered_scan,sorted,Binary search tree,13200,25,0.0476991,not compatible
+ordered_scan,sorted,Binary search tree,14400,25,0.790177,compatible
+ordered_scan,sorted,Binary search tree,15600,25,0.082866,compatible
+ordered_scan,sorted,Binary search tree,16800,25,0.137504,compatible
+ordered_scan,sorted,Binary search tree,18000,25,0.125889,compatible
+ordered_scan,sorted,Binary search tree,19200,25,0.357725,compatible
+ordered_scan,sorted,Python sequence,4800,25,0.0701925,compatible
+ordered_scan,sorted,Python sequence,6000,25,0.000152555,not compatible
+ordered_scan,sorted,Python sequence,7200,25,1.43724e-07,not compatible
+ordered_scan,sorted,Python sequence,8400,25,9.56473e-05,not compatible
+ordered_scan,sorted,Python sequence,9600,25,9.7924e-07,not compatible
+ordered_scan,sorted,Python sequence,10800,25,0.185245,compatible
+ordered_scan,sorted,Python sequence,12000,25,0.00126869,not compatible
+ordered_scan,sorted,Python sequence,13200,25,0.000600302,not compatible
+ordered_scan,sorted,Python sequence,14400,25,2.56991e-06,not compatible
+ordered_scan,sorted,Python sequence,15600,25,0.000741785,not compatible
+ordered_scan,sorted,Python sequence,16800,25,2.36162e-05,not compatible
+ordered_scan,sorted,Python sequence,18000,25,0.00372377,not compatible
+ordered_scan,sorted,Python sequence,19200,25,0.00814821,not compatible
